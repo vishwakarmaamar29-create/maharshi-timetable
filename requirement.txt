@@ -1,0 +1,5 @@
+STREAMING_CHUNK:Specifying all necessary Python libraries...
+
+streamlit==1.33.0
+pandas>=2.0.0
+ortools>=9.8.0
